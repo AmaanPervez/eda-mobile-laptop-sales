@@ -26,7 +26,7 @@ allowing me to understand both the theoretical foundations and their practical i
 <h2>🧑‍🏫 Internship Overview</h2>
 
 <ul>
-    <li><strong>Organization:</strong> Codec Technologies (<a href="https://www.codec-technologies.com" target="_blank">Official Website</a>)</li>
+    <li><strong>Organization:</strong> Codec Technologies (<a href="https://www.codectechnologies.in/" target="_blank">Official Website</a>)</li>
     <li><strong>Role:</strong> Data Analytics Intern</li>
     <li><strong>Internship Duration:</strong> August 2025 – October 2025</li>
     <li><strong>Project Nature:</strong> Mentor-assigned, hands-on analytical project</li>
@@ -100,8 +100,6 @@ This dataset allowed for both <strong>business-focused analysis</strong> (sales,
     <li>Matplotlib for building customized and publication-ready visualizations</li>
     <li>Seaborn for statistical and comparative data visualization</li>
     <li>Jupyter / Colab Notebooks for iterative analysis and documentation</li>
-    <li>Exploratory Data Analysis (EDA) techniques</li>
-    <li>Data storytelling and business insight communication</li>
 </ul>
 
 <p>In addition to technical tools, the internship emphasized:</p>
