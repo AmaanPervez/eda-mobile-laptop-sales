@@ -1,6 +1,6 @@
 <h1>📊 Sales Analytics Internship Project</h1>
-<br>
 <hr>
+<br>
 <h3>Mobile & Laptop Sales Analysis</h2>
 
 <p>
